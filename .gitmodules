@@ -6,3 +6,4 @@
 	url = https://github.com/ylxmf2005/Banquet-Management-System
 [submodule "COMP2021/In-Memory-Virtual-File-System"]
 	path = COMP2021/In-Memory-Virtual-File-System
+	url = https://github.com/Deep-Cold/In-Memory-Virtual-File-System
