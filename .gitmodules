@@ -1,9 +1,8 @@
 [submodule "COMP1002/Product-Management-System"]
 	path = COMP1002/Product-Management-System
 	url = https://github.com/Deep-Cold/Product-Management-System
-[submodule "In-Memory-Virtual-File-System"]
-	path = COMP2021/In-Memory-Virtual-File-System
-	url = https://github.com/Deep-Cold/In-Memory-Virtual-File-System
 [submodule "COMP2411/Banquet-Management-System"]
 	path = COMP2411/Banquet-Management-System
 	url = https://github.com/ylxmf2005/Banquet-Management-System
+[submodule "COMP2021/In-Memory-Virtual-File-System"]
+	path = COMP2021/In-Memory-Virtual-File-System
