@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="895bf8f0-1169-4ae1-875d-1b60f2513c9f" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment3/23097775D_SUN_Hansong.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment3/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment4/SUN_Hansong_23097775D.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment4/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment4/屏幕截图 2024-03-04 161541.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment5/SUN_Hansong_23097775D.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment5/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment5/屏幕截图 2024-03-12 144306.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment6/SUN_Hansong_23097775D.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment6/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment6/屏幕截图 2024-03-20 164327.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment7/SUN_Hansong_23097775D.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment7/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment7/屏幕截图 2024-03-25 162347.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment8/SUN_Hansong_23097775D.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment8/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1011/Assignment8/屏幕截图 2024-03-31 155524.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1411/COMP1411-Assignment 2 (updated).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1411/COMP1411-Assignment 2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1411/COMP1411-Assignment 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1411/COMP1411-Assignment 3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1411/COMP1411-Assignment 3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1411/COMP1411_Assignment_1 - Answers - reference(1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1411/COMP1411_Assignment_1(1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1411/COMP1411_Assignment_1(1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Q1/Customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Q1/Q1.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Q1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Q1/README.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Q2/Q2.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Q2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Q2/README.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Q2/Solution for Q2(c).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Q2/Solution for Q2(c).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Q3/Q3.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Q3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Q3/README.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Q3/house_prices_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Solution for Q2(c).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/Assignment/Solution for Q2(c).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/COMP1433_Assignment_2024_Spring.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/__MACOSX/._Assignment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/__MACOSX/Assignment/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/__MACOSX/Assignment/._Assignment Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/__MACOSX/Assignment/._COMP1433_Assignment_2024_Spring.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/__MACOSX/Assignment/Assignment Data/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/__MACOSX/Assignment/Assignment Data/._Customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Assignment/__MACOSX/Assignment/Assignment Data/._house_prices_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Lec10.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Lec9.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Tut10.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COMP1433/Tut9.R" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Deep-Cold"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Deep-Cold/PolyU-Course-Files.git",
+    "accountId": "47671571-8dd9-4838-9e31-86e1cafe78d8"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2oeFhQWsxRtAP51AVcCrcO1zam8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.ListOnArray_23097775d_SunHansong.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MaxTree_23097775d_SunHansong.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MaxTree_23123456d_GigiYimMingHay.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="895bf8f0-1169-4ae1-875d-1b60f2513c9f" name="更改" comment="" />
+      <created>1731222254953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731222254953</updated>
+      <workItem from="1731222256017" duration="861000" />
+      <workItem from="1731334634101" duration="3541000" />
+      <workItem from="1731550596823" duration="720000" />
+      <workItem from="1732356691677" duration="524000" />
+      <workItem from="1732365012418" duration="9000" />
+      <workItem from="1749893321601" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
