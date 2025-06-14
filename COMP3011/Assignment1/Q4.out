@@ -1,0 +1,17 @@
+Current Point is: s
+	dis[a] <- 1
+	dis[c] <- 2
+	dis[e] <- 2
+Current Point is: a
+	dis[b] <- 2
+Current Point is: b
+	dis[v] <- 5
+Current Point is: c
+	dis[d] <- 3
+	dis[f] <- 3
+Current Point is: e
+Current Point is: d
+Current Point is: f
+	dis[g] <- 9
+Current Point is: v
+The final result is dis[v] = 5
